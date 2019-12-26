@@ -1,0 +1,14 @@
+Jaeyoun:
+  name        : "Jaeyoun Nam"
+  bio         : "I am a univ student."
+  avatar      : "/assets/images/JY_bold_logo.png"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:siisee111@gmail.com"
+    - label: "medium"
+      icon: "fab fa-fw fa-medium"
+      url: "https://medium.com/@siisee111"
+    - label: "Github"
+      icon: "fab fa-fw fa-github"
+      url: "https://twitter.com/extravagantman"
