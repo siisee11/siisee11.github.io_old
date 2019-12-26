@@ -111,20 +111,13 @@ author:
   avatar           : "/assets/images/JY_bold_logo.png"
   bio              : "I am an **amazing** person."
   location         : "Suwon, South Korea"
-  email            : "siisee111@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: mailto:siisee111@gmail.com
-<<<<<<< HEAD
     - label: "Medium"
       icon: "fab fa-fw fa-medium"
-      # url: "https://your-website.com"
-=======
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
       url: "https://medium.com/@siisee111"
->>>>>>> f6a2aaec886137313e468ea941f7dfd0ddded488
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
