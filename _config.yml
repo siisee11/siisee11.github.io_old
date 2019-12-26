@@ -24,10 +24,10 @@ description              : "JY's blog"
 url                      : "https://siisee11.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : "/assets/images/JY_bold_logo.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : "__JNAM"# overrides the website title displayed in the masthead, use " " for no title
-# breadcrumbs            : false # true, false (default)
+breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
@@ -108,17 +108,23 @@ analytics:
 # Site Author
 author:
   name             : "Nam Jaeyoun"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/JY_bold_logo.png"
   bio              : "I am an **amazing** person."
   location         : "Suwon, South Korea"
-  email            :
+  email            : "siisee111@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: mailto:siisee111@gmail.com
+<<<<<<< HEAD
     - label: "Medium"
       icon: "fab fa-fw fa-medium"
       # url: "https://your-website.com"
+=======
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://medium.com/@siisee111"
+>>>>>>> f6a2aaec886137313e468ea941f7dfd0ddded488
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
