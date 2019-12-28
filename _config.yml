@@ -22,7 +22,7 @@ subtitle                 : # site tagline that appears below site title in masth
 name                     : "Nam Jaeyoun"
 description              : "JY's blog"
 url                      : "https://siisee11.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
+baseurl                  : "/siisee11.github.io_old" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/assets/images/JY_bold_logo.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
